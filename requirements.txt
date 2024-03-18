@@ -5,3 +5,4 @@ Pyarrow
 
 openpyxl
 gsppy
+numpy
