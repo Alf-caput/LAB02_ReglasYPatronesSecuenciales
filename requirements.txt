@@ -1,2 +1,8 @@
+ipykernel
 pandas
 numpy
+Pyarrow
+matplotlib
+seaborn
+mlxtend
+gsppy
